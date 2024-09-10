@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthamp-04" alt="gowthamp-04" /></a> </p>
 
-- 🌱 I’m currently learning artificial intelligence and machine learning **AINL , DATA SCIENCE , BACKEND DEVELOPER, QUERY DEVELOPER**
+- 🌱 I’m currently learning artificial intelligence and machine learning **AIML , DATA SCIENCE , BACKEND DEVELOPER, QUERY DEVELOPER**
 
 - 💬 Ask me about **MYSQL, PYTHON , MACHNE LEARNING,NUMPY , PANDAS**
 
